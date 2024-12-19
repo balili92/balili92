@@ -1,6 +1,6 @@
-# Brenda Alandes
-### _*FullStack Developer*_
-
+# HI, my name is Brenda Alandes ♀️ 🙋‍♀️ 🇪🇸
+### _*Student at ConquerBlocks*_ 
+### _*FullStack Developer*_ 🚀
 
 <img src="LOGO BALILI.jpg" alt="logobalili" width="400"/>
 
