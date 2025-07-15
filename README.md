@@ -1,23 +1,35 @@
-# HI, my name is Brenda Alandes ♀️ 🙋‍♀️ 🇪🇸
-### _*Student at ConquerBlocks*_ 
-### _*FullStack Developer*_ 🚀
+![Banner](./logo.png)
 
-<img src="logo.png" alt="logobalili" width="400"/>
-Hello, my name is Brenda, I'm studying a fullstack Master at ConquerBlocks. I'm really enthusiast about code. Starting at this world 🪐
+# Hola 👋, soy Brenda
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE4M2J3anMxZ2lzNXgwM2dkb21yaDNzMTdzZGdjYW11bXF2ZjUybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width=50><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ2OW5sbDJmbWc1b3R6ZHlhdDJsbDF0ZzZjNzluOTNiaGhjejdtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width=50><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=790b7611menoxyn1qrv62f9uptn7ch1v9s679etaz9r8hyjo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=50><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUzb2x4OHV0YWtsdDRtem43ejk4cXRpcnozdmNlZjZweW53MjBjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width=50><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhncnZldm9hYW1vbjJub2E4ZG9qbHJ6M25haTMydHVjaTZiam5uZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/liRTgRfK9XljrH2EFt/giphy.gif" width=50>
+Soy estudiante de Desarrollo Full-Stack en **Conquer Blocks**. Apasionada por la programación y el desarrollo de soluciones web, actualmente estoy fortaleciendo mis habilidades y aprendiendo nuevas tecnologías.
 
-<!--
-**balili92/balili92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologías y habilidades
 
-Here are some ideas to get you started:
+- **Lenguajes:** Python, HTML, SQL (MySQL)
+- **Conceptos:** Programación Orientada a Objetos (POO)
+- **Front-end:** CSS (en progreso)
+- **Bases de datos:** MySQL
+- **Herramientas:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+He subido varios proyectos en mi repositorio, donde aplico los conocimientos adquiridos en mis estudios y prácticas. Algunos de ellos incluyen:
+
+- Proyecto 1: Reloj-Despertador (https://github.com/balili92/reloj_despertador)
+- Proyecto 2: Lang detect (https://github.com/balili92/detector-idioma)
+- Proyecto 3: Portfolio-Persona, publicado en GitHub Pages (https://balili92.github.io/portfolio-brenda/)
+
+Puedes ver todos mis proyectos en mi perfil de GitHub.
+
+## 📫 Contacto
+
+Si quieres ponerte en contacto conmigo, aquí te dejo mis redes:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-alandes-dev/)
+
+Correo: balili.tech0@gmail.com
+
+---
+
+¡Gracias por visitar mi perfil! Siempre abierto a aprender y colaborar en nuevos proyectos.  
