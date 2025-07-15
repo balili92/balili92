@@ -1,4 +1,6 @@
-![Banner](./logo.png)
+<p align="center">
+  <img src="./logo.png" width="150" alt="Mi Logo"/>
+</p>
 
 # Hola 👋, soy Brenda
 
