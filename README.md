@@ -29,7 +29,7 @@ Si quieres ponerte en contacto conmigo, aquí te dejo mis redes:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-alandes-dev/)
 
-[![Email](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balili.tech0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-balili.tech0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balili.tech0@gmail.com)
 
 
 ---
