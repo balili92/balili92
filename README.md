@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./logo.png" width="150" alt="Mi Logo"/>
-</p>
+![Banner](./logo_alargado.png)
+
 
 # Hola 👋, soy Brenda
 
